@@ -92,7 +92,7 @@ MONGO_URI=your_mongodb_atlas_connection_string
 - Platform: Vercel
 - Add environment variable `MONGO_URI` in Vercel project settings.
 
-Deployment link: `To be updated after deployment`
+Deployment link: `https://product-crud-mongoose-api.vercel.app`
 
 ## Expected Output Example
 ```json
@@ -119,3 +119,4 @@ Deployment link: `To be updated after deployment`
   "inStock": true
 }
 ```
+
